@@ -1,5 +1,5 @@
 # Article for the GFOSS - Open Technologies Alliance
-This project is aimed for the composition of an article for the GFOSS – Open Technologies Alliance ( https://gfoss.eu/ ).
+This project is aimed for the composition of an article for the [GFOSS – Open Technologies Alliance]( https://gfoss.eu/ ).
 
 The article is composed by undergraduate students of the Athens University of Economics and Business (AUEB) from the Department of 
 Management Science and Technology (DMST).
