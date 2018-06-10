@@ -1,3 +1,3 @@
 # Contribution at Open Source Software Projects from the students of Athens University of Economics and Business
 
-##### *This is an article conducted from the students of the department of Business Science and Technology, Athens University of Economics and Business, for the self-titled project implemented within the course 'Applied Software Engineering' under the supervision of professor mr. Diomidis Spinellis*
+###### *This is an article conducted from the students of the department of Business Science and Technology, Athens University of Economics and Business, for the self-titled project implemented within the course 'Applied Software Engineering' under the supervision of professor mr. Diomidis Spinellis*
