@@ -2,7 +2,7 @@
 
 ###### *This is an article conducted from the students of the department of Business Science and Technology, Athens University of Economics and Business, for the self-titled assignment implemented within the course 'Applied Software Engineering' under the supervision of professor mr. Diomidis Spinellis*
 
-###Introduction
+### Introduction
 The assignment we were meant to do referred to the choice of an open source project on GitHub and our contribution to it. In particular, every student had to contribute at least one hundred lines of code in order to play an important role in improving the selected project. We were able to choose a project based on our interests and without any restriction regarding the programming language and the general scope of the technologies used. The aim of the assignment was to get familiar with the real conditions of software development, as well as having the opportunity to work with the technology of our interests.  
 
 ### Paragraph 1
