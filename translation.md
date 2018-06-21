@@ -28,7 +28,7 @@ In parallel with the contribution process, two interim presentations were conduc
 ### *Final Presentation*
 The final result of each contribution was reflected in the final presentation. This included Design, Implementation, Testing, and the integration of each project. In less than five minutes, we presented our contribution, the problems that we had met and the ways to deal with them.
 
-Notable repositories to which we contributed are [Nodeschool] (https://github.com/nodeschool/nodeschool.github.io), [Coördinator] (https://github.com/spotify/coordinator), [Exercism] (https : //github.com/exercism/java), [Mozilla pdf.js] (https://github.com/mozilla/pdf.js), [Teammates] (https://github.com/TEAMMATES/teammates/ ), [Jarvis] (https://github.com/sukeesh/Jarvis) and more.
+Notable repositories to which we contributed are  [Nodeschool](https://github.com/nodeschool/nodeschool.github.io), [Coördinator](https://github.com/spotify/coordinator), [Exercism](https://github.com/exercism/java), [Mozilla pdf.js](https://github.com/mozilla/pdf.js), [Teammates](https://github.com/TEAMMATES/teammates/), [Jarvis](https://github.com/sukeesh/Jarvis) and more.
 
 In summary, we were able to program in languages such as **Kotlin**, **C #**, **Java**, **JavaScript** **PHP** and **Python**. We developed code on platforms and frames such as **Android**, **Qt**, **Linux** and **npm**, we performed the appropriate checks of our code with libraries like **pytest**, **JUnit**, **Unit.js**, **PHPUnit** and **Scrutinizer**, and we used technologies, interfaces and tools like **MongoDB**, **Travis CI**, **Gulp**, **Drag'n'Drop**, **JSON**, **SVG**, **CSS**, **VirtualEnv**, **Svelte**, **Google Docs API**.
 
