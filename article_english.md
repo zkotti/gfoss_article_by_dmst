@@ -51,4 +51,3 @@ Apart from programming, it also offers a great opportunity for collaboration and
 ##### Postscript:
 ###### *This article was conducted by ten DMST students during the third year of their studies through the GitHub repository [gfoss_article_by_dmst](https://github.com/zoekt/gfoss_article_by_dmst).*
 ###### *This article is distributed under a Creative Commons license.*
-
