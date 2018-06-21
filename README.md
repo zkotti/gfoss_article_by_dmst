@@ -16,7 +16,7 @@ Co-Authors:
 * [Iason Nissopoulos](https://github.com/IasonNissopoulos)
 * [Katerina Mpatziakoudi](https://github.com/katmpatz)
 * [Kleio(Claire) Fragkedaki](https://github.com/kfragkedaki)
-* [Malvina Papadaki](https://github.com/MalvinaPap)
+* [Maria-Malevi (Malvina) Papadaki](https://github.com/MalvinaPap)
 * [Panagiotis Sanetsis](https://github.com/SanetsisPanagiotis)
 * [Sophia Gavioti](https://github.com/SophiaGvt)
 * [Efstathia (Stathoula) Chioteli](https://github.com/stathoula)
