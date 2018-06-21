@@ -9,7 +9,7 @@ us to provide an article regarding our semester assignment "Contribution to an O
 
 In this article we share our experience, thoughts, opinions and recommendations regarding the aforementioned assignment. 
 
-The article is written in Greek and an English edition is currently being developed.
+The article is provided in both Greek and English.
 
 Co-Authors:
 * [Georgios Kontosis](https://github.com/gkodosis)
