@@ -49,6 +49,6 @@ Concluding, therefore, the process of contributing to open source software proje
 Apart from the programming element, it is a great opportunity for collaboration and interaction with groups of people from every part of the earth. The knowledge, advice, criticism, rewards given to you by people unknown until yesterday can have a significant impact on your progression not only as a developer but also as a partner.
 
 ##### PS:
-###### * This article was conducted by 10 DMST students through the GITHub repository [gfoss_article_by_dmst] (https://github.com/zoekt/gfoss_article_by_dmst). *
+###### * This article was conducted by 10 DMST students through the GITHub repository [gfoss_article_by_dmst](https://github.com/zoekt/gfoss_article_by_dmst) *
 ###### * This article is distributed  under a Creative Commons license. *
 
